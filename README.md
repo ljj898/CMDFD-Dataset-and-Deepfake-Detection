@@ -5,8 +5,10 @@ This repository contains the code and dataset associated with the ICME paper tit
 ## Contents
 
 1. **Code**
-   - The source code used for the experiments in the paper.
+   - The source code used for the experiments described in the paper. This includes scripts for training and evaluating the proposed models.
+   
 2. **CMDFD Dataset**
-   - The proposed Cross-Modal Deepfake Dataset (CMDFD) is available for download via [this link](#).
+   - The proposed Cross-Modal Deepfake Dataset (CMDFD) is available for download via [this link](https://drive.google.com/drive/folders/198w2kdRmf64lrELJ2H1df66PFJmb64DG). 
 
-Please ensure you follow the dataset's license agreement and citation requirements when using it for your research.
+Please ensure you follow the dataset's license agreement and citation requirements when using it for your research. 
+
