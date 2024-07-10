@@ -15,7 +15,7 @@ This repository contains the code and dataset associated with the ICME paper tit
    - The proposed Cross-Modal Deepfake Dataset (CMDFD) is available for download via [this link](https://drive.google.com/drive/folders/198w2kdRmf64lrELJ2H1df66PFJmb64DG).
 
 ## Citation
-
+```bibtex
 Please cite the following if our paper or code is helpful to your research:
 @article{yu2024explicit,
   title={Explicit Correlation Learning for Generalizable Cross-Modal Deepfake Detection},
