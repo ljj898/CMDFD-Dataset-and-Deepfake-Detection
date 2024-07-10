@@ -13,6 +13,12 @@ This repository contains the code and dataset associated with the ICME paper tit
 
 2. **CMDFD Dataset**
    - The proposed Cross-Modal Deepfake Dataset (CMDFD) is available for download via [this link](https://drive.google.com/drive/folders/198w2kdRmf64lrELJ2H1df66PFJmb64DG).
+## Requirements
+
+Please refer to the following repositories for detailed requirements and dependencies:
+
+- [TalkNet-ASD](https://github.com/TaoRuijie/TalkNet-ASD)
+- [deep_avsr](https://github.com/smeetrs/deep_avsr/tree/master)
 
 ## Citation
 
