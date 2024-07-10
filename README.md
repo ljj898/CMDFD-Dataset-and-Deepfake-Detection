@@ -14,4 +14,19 @@ This repository contains the code and dataset associated with the ICME paper tit
 2. **CMDFD Dataset**
    - The proposed Cross-Modal Deepfake Dataset (CMDFD) is available for download via [this link](https://drive.google.com/drive/folders/198w2kdRmf64lrELJ2H1df66PFJmb64DG).
 
-Please ensure you follow the dataset's license agreement and citation requirements when using it for your research.
+## Citation
+
+Please cite the following if our paper or code is helpful to your research:
+@article{yu2024explicit,
+  title={Explicit Correlation Learning for Generalizable Cross-Modal Deepfake Detection},
+  author={Yu, Cai and Jia, Shan and Fu, Xiaomeng and Liu, Jin and Tian, Jiahe and Dai, Jiao and Wang, Xi and Lyu, Siwei and Han, Jizhong},
+  journal={arXiv preprint arXiv:2404.19171},
+  year={2024}
+}
+
+## Acknowledgments
+
+We studied many useful projects during our coding process, which include:
+
+- The structure of the project layout and the audio encoder is learned from this repository.
+- The demo for visualization is modified from this repository.
