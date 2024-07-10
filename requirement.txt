@@ -1,0 +1,15 @@
+torch>=1.6.0
+torchaudio>=0.6.0
+numpy==1.18.1
+scipy==1.3.1
+scikit-learn
+tqdm==4.42.1
+scenedetect
+opencv-python==4.2.0
+python_speech_features
+torchvision
+ffmpeg
+gdown
+youtube-dl
+editdistance==0.5.3
+matplotlib==3.1.1
