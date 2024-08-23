@@ -106,11 +106,7 @@ def load_audio_features(data, numFrames, audioAug):
     fps = float(data[-2])    
     
     audiopath=data[1]
-    ### only for US Devices
-    new_audiopath = audiopath.split("/")
-    new_audiopath[1]="projects"
-    new_audiopath[2]="yucai2"
-    audiopath = "/".join(new_audiopath)
+  
 
 
     
@@ -149,15 +145,7 @@ def load_visual(data,  numFrames, visualAug):
     dataName = data[0]
     #videoName = data[0][:11]
     videopath=data[2]
-    ### only for USdevices
-    #print (videopath)
-    new_videopath = videopath.split("/")
-    new_videopath[1]="projects"
-    new_videopath[2]="yucai2"
-    videopath = "/".join(new_videopath)
-
-   
-    #print (videopath)
+    
 
     lipInp = numpy.load(videopath[:-4]+".npy")
   
